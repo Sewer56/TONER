@@ -21,6 +21,7 @@ Under the hood, it makes use of my own PRS Compression/Decompression library wri
 ## How to Use
 
 A. Install TONER like a regular Reloaded mod.
+
 B. Enable TONER.
 
 ## Under the Hood: A Quick Summary
